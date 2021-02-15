@@ -1,0 +1,57 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    background-image: url("https://images.unsplash.com/photo-1478198697312-304b0bd9475f");
+}
+
+.container{
+    min-width: 1000px;
+    min-height: 200px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.container-signin{
+    min-width: 800px;
+    min-height: 400px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.container-summary{
+    min-width: 500px;
+    min-height: 700px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.border-lightgrey{
+    color: lightslategray;
+}
+
+.container-profile{
+    min-width: 700px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.container-profile th{
+    min-width: 150px;
+}
+
+.container-profile td{
+    min-width: 500px;
+}
+
+.container-order{
+    min-width: 1000px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.container-order th{
+    min-width: 200px;
+}
+
+.container-order td{
+    min-width: 200px;
+}
